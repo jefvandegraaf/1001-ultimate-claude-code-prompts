@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0056 See your body after 6 months of training (deep build)
+## #0057 See your body after 6 months of training (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -57,5 +57,5 @@ OUTPUT
 - MODELS.md: model, licence, commercial yes or no
 - tests/ proving the watermark and the one-person check
 
-Prompt #0056 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0057 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

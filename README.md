@@ -5,9 +5,9 @@ Every prompt sits next to what a cheap freelancer and an expensive agency would 
 Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
 
 <!-- index:start -->
-**60 of 1001 prompts written so far.**
+**62 of 1001 prompts written so far.**
 
-All of them, done by a cheap freelancer: ~~$19,040~~. By an expensive agency: ~~$474,500~~. By Claude Code: **$200 a month**.
+All of them, done by a cheap freelancer: ~~$19,740~~. By an expensive agency: ~~$485,500~~. By Claude Code: **$200 a month**.
 
 | Category | Prompts | Numbers |
 |---|---|---|
@@ -25,13 +25,14 @@ All of them, done by a cheap freelancer: ~~$19,040~~. By an expensive agency: ~~
 | [Strategy & Consulting](prompts/12-strategy-and-consulting.md) | 1 | #0043 to #0043 |
 | [Docs & Policies](prompts/13-docs-and-policies.md) | 4 | #0044 to #0047 |
 | [Dev & Automation](prompts/14-dev-and-automation.md) | 4 | #0048 to #0051 |
-| [Build Your Own](prompts/15-build-your-own.md) | 3 | #0052 to #0054 |
-| [Second Brain](prompts/16-second-brain.md) | 1 | #0055 to #0055 |
-| [Fitness](prompts/17-fitness.md) | 1 | #0056 to #0056 |
-| [Therapy & Self-Care](prompts/18-therapy-and-self-care.md) | 1 | #0057 to #0057 |
-| [Enlightenment](prompts/19-enlightenment.md) | 1 | #0058 to #0058 |
-| [Relationships & Breakups](prompts/20-relationships-and-breakups.md) | 1 | #0059 to #0059 |
-| [Parenting](prompts/21-parenting.md) | 1 | #0060 to #0060 |
+| [Privacy & Security](prompts/15-privacy-and-security.md) | 1 | #0052 to #0052 |
+| [Build Your Own](prompts/16-build-your-own.md) | 3 | #0053 to #0055 |
+| [Second Brain](prompts/17-second-brain.md) | 1 | #0056 to #0056 |
+| [Fitness](prompts/18-fitness.md) | 1 | #0057 to #0057 |
+| [Therapy & Self-Care](prompts/19-therapy-and-self-care.md) | 1 | #0058 to #0058 |
+| [Enlightenment](prompts/20-enlightenment.md) | 1 | #0059 to #0059 |
+| [Relationships & Breakups](prompts/21-relationships-and-breakups.md) | 1 | #0060 to #0060 |
+| [Parenting](prompts/22-parenting.md) | 2 | #0061 to #0062 |
 <!-- index:end -->
 
 ## How to use a prompt

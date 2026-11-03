@@ -2,7 +2,7 @@
 
 3 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0052 Your own AI girlfriend or boyfriend (deep build)
+## #0053 Your own AI girlfriend or boyfriend (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -56,10 +56,10 @@ OUTPUT
 - tests/ proving memory recall and voice latency
 - Every model and licence used, in one list
 
-Prompt #0052 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0053 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0053 Replace Adobe Creative Cloud (deep build)
+## #0054 Replace Adobe Creative Cloud (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -108,10 +108,10 @@ OUTPUT
 - README.md with one-line usage per tool
 - An honest list of what I still can't replace, and the cheapest single app that covers it
 
-Prompt #0053 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0054 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0054 WordPress to static, without paying Jef (deep build)
+## #0055 WordPress to static, without paying Jef (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -167,5 +167,5 @@ OUTPUT
 - redirect-check.csv proving every old URL lands
 - LAUNCH.md: the DNS switch, step by step, and how to roll back
 
-Prompt #0054 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0055 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

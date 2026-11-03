@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0057 Your own daily affirmation app (deep build)
+## #0058 Your own daily affirmation app (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -54,5 +54,5 @@ OUTPUT
 - voice.md, crisis-lines.json and README.md with setup, cost and how to delete all data
 - 14 simulated days of taps showing the learner shifting styles
 
-Prompt #0057 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0058 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

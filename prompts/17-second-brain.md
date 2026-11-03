@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0055 Build your second brain (deep build)
+## #0056 Build your second brain (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -58,5 +58,5 @@ OUTPUT
 - .claude/commands/ for /ask, /capture, /daily and /review
 - README.md: the 5-minute daily routine, re-indexing, rollback
 
-Prompt #0055 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0056 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
