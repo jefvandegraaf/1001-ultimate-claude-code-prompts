@@ -44,7 +44,7 @@ const sumF = data.prompts.reduce((n, p) => n + p.freelancer, 0);
 const sumA = data.prompts.reduce((n, p) => n + p.agency, 0);
 const maxC = Math.max(...data.prompts.map(p => p.claude_code_plan));
 const block = [
-  `**${data.prompts.length} of 1001 prompts written so far.**`,
+  data.prompts.length >= 1001 ? "**All 1001 prompts.**" : `**${data.prompts.length} of 1001 prompts written so far.**`,
   "",
   `All of them, done by a cheap freelancer: ~~${usd(sumF)}~~. By an expensive agency: ~~${usd(sumA)}~~. By Claude Code: **${usd(maxC)} a month**.`,
   "",
