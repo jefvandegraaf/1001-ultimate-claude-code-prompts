@@ -29,6 +29,13 @@ data.categories.forEach((cat, ci) => {
     `|---|---|---|`,
     `| ~~${usd(p.freelancer)}~~ ${p.freelancer_note} | ~~${usd(p.agency)}~~ ${p.agency_note} | **${PLANS[p.claude_code_plan]}** |`,
     "",
+    // gear to buy: Amazon links with Jef's Associates tag, disclosure right under them
+    ...(p.needs && p.needs.length ? [
+      `**What you'll need:** ${p.needs.map(n => `[${n.label}](${n.url})`).join(" · ")}`,
+      "",
+      "<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>",
+      "",
+    ] : []),
     "```text",
     p.prompt,
     "",

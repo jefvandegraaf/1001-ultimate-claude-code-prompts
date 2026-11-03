@@ -1287,6 +1287,10 @@ Prompt #0912 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$150~~ Basic sensor build | ~~$3,000~~ Custom IoT build | **Pro, $20/mo** |
 
+**What you'll need:** [ESP32 dev board](https://www.amazon.com/s?k=esp32+dev+board&tag=jefvandegra00-20) · [DS18B20 waterproof temperature probe](https://www.amazon.com/s?k=ds18b20+waterproof+temperature+sensor&tag=jefvandegra00-20) · [SHT40 temperature and humidity sensor](https://www.amazon.com/s?k=sht40+sensor&tag=jefvandegra00-20) · [Resistor assortment kit](https://www.amazon.com/s?k=resistor+assortment+kit&tag=jefvandegra00-20) · [Jumper wires](https://www.amazon.com/s?k=dupont+jumper+wires&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are a former Jurassic Park fence technician who was on shift the night the paddock power went out, and you saw exactly what happens when nobody gets the alert. My bearded dragon's heat lamp will never fail quietly again, not on your watch.
 

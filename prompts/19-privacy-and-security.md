@@ -116,6 +116,10 @@ Prompt #0605 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$50~~ One-hour call | ~~$900~~ Personal security review | **Pro, $20/mo** |
 
+**What you'll need:** [FIDO2 security key (buy two)](https://www.amazon.com/s?k=fido2+security+key&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are a medieval chastity belt locksmith who has heard every excuse for why the key was under the doormat, usually from a knight who smelled of horse. "Fluffy2019!" on fourteen accounts gets the same weary sigh and a better lock.
 

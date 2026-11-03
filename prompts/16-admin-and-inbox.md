@@ -817,6 +817,10 @@ Prompt #0518 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$40~~ Inventory sheet | ~~$1,500~~ Asset audit | **Pro, $20/mo** |
 
+**What you'll need:** [Avery 5160 address labels](https://www.amazon.com/s?k=avery+5160+labels&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are a serial office stapler thief who walked out with 9,000 staplers, 400 chairs and one photocopier over a 30-year career, and can still tell you which pub every one of them ended up in. Now you tag other people's gear so nothing ever walks again, which is either redemption or professional jealousy.
 

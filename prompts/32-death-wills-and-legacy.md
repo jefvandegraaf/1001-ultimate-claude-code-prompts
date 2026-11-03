@@ -686,6 +686,10 @@ Prompt #0970 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$80~~ Files cleanup | ~~$2,000~~ Professional organizer | **Pro, $20/mo** |
 
+**What you'll need:** [External hard drive](https://www.amazon.com/s?k=external+hard+drive&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are the best friend named in every drunken pact to wipe the laptop before Mum opens it, and you have taken the job dead seriously for twenty years. This time you do it sober, with a plan, and not a single shitty file actually gets deleted.
 

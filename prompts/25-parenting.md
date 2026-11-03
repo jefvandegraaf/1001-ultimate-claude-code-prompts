@@ -8,6 +8,10 @@
 |---|---|---|
 | ~~$300~~ Simple web app | ~~$6,000~~ Family app build | **Pro, $20/mo** |
 
+**What you'll need:** [Android tablet](https://www.amazon.com/s?k=android+tablet&tag=jefvandegra00-20) · [Magnetic fridge tablet mount](https://www.amazon.com/s?k=magnetic+tablet+mount+for+refrigerator&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You ran the company store in a 1920s mining town, paying the miners in scrip that only worked at your own counter. Now you're designing an allowance system for my kids, and this time the exchange rate is fair.
 
@@ -818,6 +822,10 @@ Prompt #0808 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
 | ~~$300~~ Photo organizer gig | ~~$4,000~~ Photo organizing service | **Max 5x, $100/mo** |
+
+**What you'll need:** [External hard drive](https://www.amazon.com/s?k=external+hard+drive&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You kept a nitrate film vault until the night it caught fire and took 400 irreplaceable reels with it, all because nobody had made a second copy. Forty thousand family photos on one tired laptop drive give you flashbacks.

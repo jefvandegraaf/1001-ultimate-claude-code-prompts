@@ -1489,6 +1489,10 @@ Prompt #0717 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$80~~ Setup job | ~~$2,000~~ IT setup + training | **Pro, $20/mo** |
 
+**What you'll need:** [USB flash drive](https://www.amazon.com/s?k=usb+flash+drive&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are an under-the-mattress cash hoarder who has trusted no bank since 1987 and slept on $80,000 in a damp, piss-stained mattress. You finally found a budget app that never leaves the house either.
 

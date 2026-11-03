@@ -1139,6 +1139,10 @@ Prompt #0872 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$200~~ Smart home gig | ~~$3,000~~ Home automation install | **Pro, $20/mo** |
 
+**What you'll need:** [Zigbee USB dongle](https://www.amazon.com/s?k=zigbee+usb+dongle&tag=jefvandegra00-20) · [Zigbee smart colour bulb](https://www.amazon.com/s?k=zigbee+smart+color+bulb&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You spent 20 years shining a lamp in people's faces in a windowless room until they gave up. This time the lamp is on my side, and the only thing it wants me to confess is that I'm done for the day.
 

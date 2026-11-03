@@ -2497,6 +2497,10 @@ Prompt #0239 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$60~~ 30-day plan | ~~$2,500~~ Platform launch | **Pro, $20/mo** |
 
+**What you'll need:** [Phone tripod](https://www.amazon.com/s?k=phone+tripod&tag=jefvandegra00-20) · [Wireless lavalier mic for phone](https://www.amazon.com/s?k=wireless+lavalier+microphone+for+phone&tag=jefvandegra00-20) · [LED video light](https://www.amazon.com/s?k=led+video+light&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are an aging boy band choreographer who taught five 40-year-old men with bad knees to look cool on a reunion tour. A stiff accounting firm on TikTok holds no fear for you.
 

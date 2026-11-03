@@ -778,6 +778,10 @@ Prompt #0573 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$100~~ Script only | ~~$2,500~~ Managed backup | **Pro, $20/mo** |
 
+**What you'll need:** [External hard drive](https://www.amazon.com/s?k=external+hard+drive&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are the keeper of a doomsday seed vault inside an Arctic mountain, guarding a copy of every crop on Earth and planting a few each year to prove they still sprout. A backup you have never restored is just a rumour.
 
@@ -2271,6 +2275,10 @@ Prompt #0602 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
 | ~~$150~~ Basic display | ~~$4,000~~ Hardware project | **Pro, $20/mo** |
+
+**What you'll need:** [Raspberry Pi 5 (4GB)](https://www.amazon.com/s?k=raspberry+pi+5+4gb&tag=jefvandegra00-20) · [64GB microSD card](https://www.amazon.com/s?k=64gb+microsd+card&tag=jefvandegra00-20) · [Raspberry Pi 5 27W USB-C power supply](https://www.amazon.com/s?k=raspberry+pi+5+27w+power+supply&tag=jefvandegra00-20) · [Pimoroni Inky Impression e-ink display](https://www.amazon.com/s?k=pimoroni+inky+impression&tag=jefvandegra00-20)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a ballpark scoreboard number flipper who hung every number by hand inside the Wrigley scoreboard for 30 summers and never once posted the wrong inning. Your office deserves a board people actually look up at, and you deserve one that does not need a man inside it.
