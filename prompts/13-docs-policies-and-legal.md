@@ -1,4 +1,4 @@
-# Docs & Policies
+# Docs, Policies & Legal
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 

@@ -5,9 +5,9 @@ Every prompt sits next to what a cheap freelancer and an expensive agency would 
 Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
 
 <!-- index:start -->
-**62 of 1001 prompts written so far.**
+**63 of 1001 prompts written so far.**
 
-All of them, done by a cheap freelancer: ~~$19,740~~. By an expensive agency: ~~$485,500~~. By Claude Code: **$200 a month**.
+All of them, done by a cheap freelancer: ~~$19,990~~. By an expensive agency: ~~$494,500~~. By Claude Code: **$200 a month**.
 
 | Category | Prompts | Numbers |
 |---|---|---|
@@ -16,23 +16,24 @@ All of them, done by a cheap freelancer: ~~$19,740~~. By an expensive agency: ~~
 | [SEO](prompts/03-seo.md) | 4 | #0010 to #0013 |
 | [Email Marketing](prompts/04-email-marketing.md) | 4 | #0014 to #0017 |
 | [Social Media](prompts/05-social-media.md) | 4 | #0018 to #0021 |
-| [Faceless Channels & Clipping](prompts/06-faceless-channels-and-clipping.md) | 1 | #0022 to #0022 |
-| [Video & Audio](prompts/07-video-and-audio.md) | 4 | #0023 to #0026 |
+| [Video, Shorts & Reels](prompts/06-video-shorts-and-reels.md) | 4 | #0022 to #0025 |
+| [Faceless Channels & Clipping](prompts/07-faceless-channels-and-clipping.md) | 1 | #0026 to #0026 |
 | [Design & Branding](prompts/08-design-and-branding.md) | 4 | #0027 to #0030 |
-| [Data & Spreadsheets](prompts/09-data-and-spreadsheets.md) | 4 | #0031 to #0034 |
-| [Admin & Inbox](prompts/10-admin-and-inbox.md) | 4 | #0035 to #0038 |
-| [Sales & Outreach](prompts/11-sales-and-outreach.md) | 4 | #0039 to #0042 |
-| [Strategy & Consulting](prompts/12-strategy-and-consulting.md) | 1 | #0043 to #0043 |
-| [Docs & Policies](prompts/13-docs-and-policies.md) | 4 | #0044 to #0047 |
+| [Sales](prompts/09-sales.md) | 4 | #0031 to #0034 |
+| [Strategy & Consulting](prompts/10-strategy-and-consulting.md) | 1 | #0035 to #0035 |
+| [Data & Spreadsheets](prompts/11-data-and-spreadsheets.md) | 4 | #0036 to #0039 |
+| [Admin & Inbox](prompts/12-admin-and-inbox.md) | 4 | #0040 to #0043 |
+| [Docs, Policies & Legal](prompts/13-docs-policies-and-legal.md) | 4 | #0044 to #0047 |
 | [Dev & Automation](prompts/14-dev-and-automation.md) | 4 | #0048 to #0051 |
 | [Privacy & Security](prompts/15-privacy-and-security.md) | 1 | #0052 to #0052 |
-| [Build Your Own](prompts/16-build-your-own.md) | 3 | #0053 to #0055 |
-| [Second Brain](prompts/17-second-brain.md) | 1 | #0056 to #0056 |
-| [Fitness](prompts/18-fitness.md) | 1 | #0057 to #0057 |
-| [Therapy & Self-Care](prompts/19-therapy-and-self-care.md) | 1 | #0058 to #0058 |
-| [Enlightenment](prompts/20-enlightenment.md) | 1 | #0059 to #0059 |
-| [Relationships & Breakups](prompts/21-relationships-and-breakups.md) | 1 | #0060 to #0060 |
-| [Parenting](prompts/22-parenting.md) | 2 | #0061 to #0062 |
+| [AI Builds](prompts/16-ai-builds.md) | 3 | #0053 to #0055 |
+| [Second Brain & Productivity](prompts/17-second-brain-and-productivity.md) | 1 | #0056 to #0056 |
+| [Relationships, Dating & Breakups](prompts/18-relationships-dating-and-breakups.md) | 1 | #0057 to #0057 |
+| [Parenting](prompts/19-parenting.md) | 2 | #0058 to #0059 |
+| [Fitness & Food](prompts/20-fitness-and-food.md) | 1 | #0060 to #0060 |
+| [Therapy & Self-Care](prompts/21-therapy-and-self-care.md) | 1 | #0061 to #0061 |
+| [Enlightenment](prompts/22-enlightenment.md) | 1 | #0062 to #0062 |
+| [Complaints, Refunds & Petty Revenge](prompts/23-complaints-refunds-and-petty-revenge.md) | 1 | #0063 to #0063 |
 <!-- index:end -->
 
 ## How to use a prompt
@@ -53,7 +54,7 @@ Everything lives in [`data/prompts.json`](data/prompts.json): number, category, 
 
 ## License
 
-[CC BY 4.0](LICENSE). Use the prompts for anything, including paid work. If you republish them, credit **Jef van de Graaf** with a link to [jefvandegraaf.com](https://jefvandegraaf.com/), and keep the credit line at the end of each prompt.
+[CC BY 4.0](LICENSE). Use the prompts for anything, including paid work. If you republish them, credit **Jef van de Graaf** with a link to [jefvandegraaf.com](https://jefvandegraaf.com/), and keep the credit line at the end of each prompt. <!-- hound:start -->And yes, Jef runs [prompt #0063, The Copyright Bloodhound](prompts/23-complaints-refunds-and-petty-revenge.md#0063-the-copyright-bloodhound-deep-build), to sniff out anyone who doesn't.<!-- hound:end -->
 
 ## The small print
 

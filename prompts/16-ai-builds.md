@@ -1,4 +1,4 @@
-# Build Your Own
+# AI Builds
 
 3 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 

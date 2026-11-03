@@ -54,6 +54,18 @@ const block = [
 ].join("\n");
 const readmePath = path.join(root, "README.md");
 const readme = fs.readFileSync(readmePath, "utf8");
-const marked = readme.replace(/<!-- index:start -->[\s\S]*<!-- index:end -->/, `<!-- index:start -->\n${block}\n<!-- index:end -->`);
-fs.writeFileSync(readmePath, marked);
+fs.writeFileSync(readmePath, readme.replace(/<!-- index:start -->[\s\S]*<!-- index:end -->/, `<!-- index:start -->\n${block}\n<!-- index:end -->`));
+
+// The licence points at the prompt Jef uses to find uncredited copies, wherever it is numbered today
+const hound = data.prompts.find(p => p.task === "The Copyright Bloodhound");
+if (hound) {
+  const ci = data.categories.findIndex(c => c.code === hound.category);
+  const file = `prompts/${String(ci + 1).padStart(2, "0")}-${slug(data.categories[ci].name)}.md`;
+  const anchor = `${hound.id}-the-copyright-bloodhound${hound.deep ? "-deep-build" : ""}`;
+  const line = `And yes, Jef runs [prompt #${hound.id}, The Copyright Bloodhound](${file}#${anchor}), to sniff out anyone who doesn't.`;
+  for (const f of ["README.md", "DISCLAIMER.md"]) {
+    const p = path.join(root, f);
+    fs.writeFileSync(p, fs.readFileSync(p, "utf8").replace(/<!-- hound:start -->[\s\S]*?<!-- hound:end -->/, `<!-- hound:start -->${line}<!-- hound:end -->`));
+  }
+}
 console.log(`Built ${data.prompts.length} prompts in ${data.categories.length} files`);

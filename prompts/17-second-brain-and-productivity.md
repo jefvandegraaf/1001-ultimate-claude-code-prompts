@@ -1,4 +1,4 @@
-# Second Brain
+# Second Brain & Productivity
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 

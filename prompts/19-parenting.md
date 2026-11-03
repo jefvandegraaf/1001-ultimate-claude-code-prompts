@@ -2,7 +2,7 @@
 
 2 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0061 Chore and allowance app for the fridge
+## #0058 Chore and allowance app for the fridge
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -46,10 +46,10 @@ OUTPUT
 - README.md: setup, kiosk mode, adding kids and chores
 - In chat: a starter chore list with points by age
 
-Prompt #0061 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0058 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0062 Bedtime stories in your own voice (deep build)
+## #0059 Bedtime stories in your own voice (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -103,5 +103,5 @@ OUTPUT
 - player/ ready to install on the tablet
 - README.md: how to add a new book in 3 steps
 
-Prompt #0062 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0059 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

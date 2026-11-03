@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0022 Steal other people's content (the legal way) (deep build)
+## #0026 Steal other people's content (the legal way) (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -59,5 +59,5 @@ OUTPUT
 - moments.csv, tracker.csv and weekly-report.md
 - README.md with setup and the rights checklist
 
-Prompt #0022 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0026 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
