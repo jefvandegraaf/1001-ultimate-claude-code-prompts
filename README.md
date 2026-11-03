@@ -1,15 +1,19 @@
 # 1001 Ultimate Claude Code Prompts That'll Make Humans Obsolete
 
-Every prompt sits next to what a cheap freelancer and an expensive agency would charge for the same job, and the Claude Code plan that does it instead.
+I reveresed engineered 1001 Claude Code prompts that many AI trust me bros and internet gurus sell for $67 to $397 to access. You'll also find comparisons to how much it would cost to hire a freelancer or agency to do what Claude Code can do for a fraction of the cost and a fraction of the time.
 
-Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
+ALL MY PROMPTS ARE 100% ORIGINAL, UNIQUE, AND SCARY GOOD.
+
+They're also FOREVER FREE. I bet a few AI bros will steal this and sell 'em for $397 and drive Facebook ads to a landing page with a fake countdown timer and reviews from people who don't exist. Ah well, that's the world we live in I guess.
 
 See all 1001 on one page, prices and all: **[jefvandegraaf.com/free-claude-code-prompts](https://jefvandegraaf.com/free-claude-code-prompts/)**
 
 <!-- index:start -->
 **All 1001 prompts.**
 
-All of them, done by a cheap freelancer: ~~$140,080~~. By an expensive agency: ~~$3,711,150~~. By Claude Code: **$200 a month**.
+If done by a cheap freelancer: ~~$140,080~~. 
+By an expensive agency: ~~$3,711,150~~. 
+By Claude Code: **$200 a month**.
 
 | Category | Prompts | Numbers |
 |---|---|---|
@@ -54,15 +58,15 @@ All of them, done by a cheap freelancer: ~~$140,080~~. By an expensive agency: ~
 2. Open the folder you want to work in.
 3. Copy a prompt, fill in the `[brackets]`, and paste it in.
 
-Every prompt works on files in your folder, shows you a plan before it changes anything, and checks its own work. Read it before you run it anyway.
+Every prompt works on files in your folder, shows you a plan before it changes anything, and checks its own work. Read it before you run it anyway. < I left this here because Claude wrote it. Just wanted to point out how weird and awkward Claude's writing style is. It confuses me all the time and I often have to ask it to clarify what it was trying to say. Silly machine...
 
 ## Deep builds
 
-Some prompts go further than text. They connect real tools and models, like Ollama, Whisper, ffmpeg and models from Hugging Face, and name them in a STACK section. Check every licence before you install anything.
+Some prompts may take you down a wild, AI rabbit hole. They'll connect to other tools and models, like Ollama, Whisper, ffmpeg and some cool stuff from Hugging Face. It'll create some impressive new tools. Please be sure to check every licence before you install anything.
 
 ## For developers
 
-Everything lives in [`data/prompts.json`](data/prompts.json): number, category, task, prices, Claude Code plan, tone and the full prompt. The Markdown files in `prompts/` are generated from it with `node scripts/build.mjs`.
+You can find everything in [`data/prompts.json`](data/prompts.json): number, category, task, prices, Claude Code plan, tone and the full prompt. The Markdown files in `prompts/` are generated from it with `node scripts/build.mjs`.
 
 ## License
 
@@ -70,7 +74,7 @@ Everything lives in [`data/prompts.json`](data/prompts.json): number, category, 
 
 ## The small print
 
-This is a parody, and none of these prompts have been tested. Read [DISCLAIMER.md](DISCLAIMER.md) before you use them. Task ideas partly come from other prompt collections, credited in [CREDITS.md](CREDITS.md).
+Yes, this is a parody, and none of these prompts have been tested. Read [DISCLAIMER.md](DISCLAIMER.md) before you use them. Task ideas partly come from other prompt collections, credited in [CREDITS.md](CREDITS.md).
 
 ## Prevent poverty
 
