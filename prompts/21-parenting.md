@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0059 Chore and allowance app for the fridge
+## #0060 Chore and allowance app for the fridge
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -46,5 +46,5 @@ OUTPUT
 - README.md: setup, kiosk mode, adding kids and chores
 - In chat: a starter chore list with points by age
 
-Prompt #0059 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0060 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

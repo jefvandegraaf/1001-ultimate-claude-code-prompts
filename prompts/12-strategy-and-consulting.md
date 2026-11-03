@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0042 Find your next $1 million (deep build)
+## #0043 Find your next $1 million (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -51,5 +51,5 @@ OUTPUT
 - plan.md with the 90 days
 - kpi-tracker.csv to update every Friday
 
-Prompt #0042 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0043 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0057 A portable guru, no flight to India (deep build)
+## #0058 A portable guru, no flight to India (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -58,5 +58,5 @@ OUTPUT
 - README.md: deploy steps, monthly cost, swapping the guru
 - test-report.md
 
-Prompt #0057 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0058 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

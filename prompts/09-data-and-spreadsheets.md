@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0030 Clean a messy CRM export
+## #0031 Clean a messy CRM export
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -49,10 +49,10 @@ OUTPUT
 - clean_crm.py plus README.md for next month's export
 - In chat: rows in, rows out, merged, flagged
 
-Prompt #0030 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0031 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0031 Monthly P&L from bank exports
+## #0032 Monthly P&L from bank exports
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -97,10 +97,10 @@ OUTPUT
 - pnl.py, rules.csv and README.md for next month
 - In chat: 3 lines on what stood out
 
-Prompt #0031 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0032 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0032 Spreadsheet formula build
+## #0033 Spreadsheet formula build
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -143,10 +143,10 @@ OUTPUT
 - Any script, with install steps
 - In chat: 2 ways this could break later and how to spot it
 
-Prompt #0032 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0033 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0033 Survey answers into a themes report
+## #0034 Survey answers into a themes report
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -192,5 +192,5 @@ OUTPUT
 - code_survey.py to re-run the counts
 - In chat: the top 3 findings
 
-Prompt #0033 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0034 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0022 Podcast into 10 captioned shorts
+## #0023 Podcast into 10 captioned shorts
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -47,10 +47,10 @@ OUTPUT
 - make_clips.py and work/ transcripts
 - In chat: the ffprobe table
 
-Prompt #0022 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0023 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0023 Cut silences and filler words
+## #0024 Cut silences and filler words
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -97,10 +97,10 @@ OUTPUT
 - cleancut.py
 - In chat: duration before and after, jump cuts
 
-Prompt #0023 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0024 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0024 Subtitles in 5 languages
+## #0025 Subtitles in 5 languages
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -147,10 +147,10 @@ OUTPUT
 - subs/notes.md: judgement calls (number, original, translation, why), every [INAUDIBLE]
 - In chat: the ffmpeg burn-in command
 
-Prompt #0024 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0025 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0025 Clean up voice audio
+## #0026 Clean up voice audio
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -197,5 +197,5 @@ OUTPUT
 - clean_voice.py and README.md
 - In chat: any file that failed the re-measure
 
-Prompt #0025 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0026 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

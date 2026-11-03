@@ -2,7 +2,7 @@
 
 1 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0058 Caught them cheating, now ask for a divorce
+## #0059 Caught them cheating, now ask for a divorce
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -44,5 +44,5 @@ OUTPUT
 - Every file above, in private/
 - In chat: three things to do this week
 
-Prompt #0058 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0059 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

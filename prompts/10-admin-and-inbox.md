@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0034 Inbox triage system
+## #0035 Inbox triage system
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -47,10 +47,10 @@ OUTPUT
 - triage.py for next month
 - In chat: a 2-minute daily routine that keeps it working
 
-Prompt #0034 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0035 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0035 Meeting notes into actions
+## #0036 Meeting notes into actions
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -95,10 +95,10 @@ OUTPUT
 - meetings/out/actions.csv, appended, never overwritten
 - In chat: every [OWNER NEEDED] and [DATE NEEDED]
 
-Prompt #0035 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0036 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0036 Trip plan and itinerary
+## #0037 Trip plan and itinerary
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -143,10 +143,10 @@ OUTPUT
 - bookings.csv: book now, 2 weeks out or on the day, and why
 - In chat: a short packing note and every [CHECK] item
 
-Prompt #0036 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0037 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0037 Folder clean-up with undo log
+## #0038 Folder clean-up with undo log
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -192,5 +192,5 @@ OUTPUT
 - After approval: move-log.csv, move.py, undo.py, before and after counts
 - In chat: the scan summary
 
-Prompt #0037 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0038 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

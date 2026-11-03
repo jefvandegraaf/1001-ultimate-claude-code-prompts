@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0017 30-day LinkedIn calendar
+## #0018 30-day LinkedIn calendar
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -45,10 +45,10 @@ OUTPUT
 - linkedin/check.js, reusable next month
 - In chat: best posting windows for my timezone and every [STORY NEEDED]
 
-Prompt #0017 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0018 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0018 Blog post into 10 posts
+## #0019 Blog post into 10 posts
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -93,10 +93,10 @@ OUTPUT
 - social/check.js, reusable
 - In chat: the 3 strongest posts
 
-Prompt #0018 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0019 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0019 Comment and DM reply bank
+## #0020 Comment and DM reply bank
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -142,10 +142,10 @@ OUTPUT
 - replies/quick-replies.md: 5 saved replies
 - In chat: counts per group
 
-Prompt #0019 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0020 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0020 Carousel, designed and exported
+## #0021 Carousel, designed and exported
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -193,5 +193,5 @@ OUTPUT
 - caption.md: 80 to 150 words, first line under 125 characters, up to 5 hashtags, alt text per slide
 - In chat: contrast ratios and flags
 
-Prompt #0020 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0021 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

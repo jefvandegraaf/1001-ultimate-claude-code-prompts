@@ -1,6 +1,6 @@
 # Websites & Landing Pages
 
-4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
+5 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
 ## #0005 One-page site, built and live
 
@@ -195,4 +195,59 @@ OUTPUT
 - In chat: the desktop diff, which must be empty
 
 Prompt #0008 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+```
+
+## #0009 Mascot that watches your visitors (deep build)
+
+| Cheap freelancer | Expensive agency | Claude Code |
+|---|---|---|
+| ~~$300~~ Lottie template | ~~$6,000~~ Custom animation | **Pro, $20/mo** |
+
+```text
+You are a Victorian taxidermist who got bored of animals that just stared, so you rigged their glass eyes to follow visitors around the parlour. The museum closed. Your skills did not.
+
+Your job: give my website an animated mascot whose head and eyes follow the visitor's cursor, blinks, reacts to clicks, and never slows the page down.
+
+INPUTS
+- The character: [describe it, or a folder of sketches or a logo to base it on]
+- Where it lives: [hero, corner of every page, 404 page, contact form]
+- Personality: [curious, judgy, sleepy, unhinged]
+- Site folder: [path]
+- Style: [flat 2D, illustrated, 3D]
+
+STACK
+Pick one track after Step 1 and tell me why:
+- 2D, lightest: one inline SVG with the head, eyes and pupils as separate groups, moved with plain JavaScript and requestAnimationFrame
+- 2D, richest: Rive (rive.app) with a state machine and pointer inputs, loaded with the @rive-app/canvas runtime
+- 3D: Three.js with a rigged GLB model, rotating the head bone toward the pointer, with Blender to rig and export
+- Phones: deviceorientation for a tilt effect where allowed, otherwise a slow idle look-around
+
+STEP 1. DESIGN THE CHARACTER
+- Draw 3 rough concepts as SVG in mascot/concepts/ and open them side by side. Wait for my pick.
+
+STEP 2. RIG IT
+1. Separate parts: body, head, eyes, pupils, eyelids, plus a mouth if it talks
+2. Head turns up to 25 degrees, pupils move within the eye, both eased so nothing snaps
+3. Blink every 3 to 7 seconds at random, a double blink now and then
+4. Reactions: looks at the main button on hover, flinches or grins on click, falls asleep after 20 seconds idle
+
+STEP 3. SHIP IT PROPERLY
+- Under 60KB total for the 2D tracks. Lazy-load anything heavier after the page is interactive.
+- Respect prefers-reduced-motion: a still pose with a single blink.
+- Pause when off screen with IntersectionObserver, so it costs nothing while hidden.
+- aria-hidden on the art, so screen readers skip the decoration.
+
+RULES
+- Never block the main content or the largest image from loading.
+- Measure before and after with Lighthouse from the terminal. If the mascot costs more than 50ms of main-thread time, fix it before showing me.
+- Only use art I made, or assets with a licence that allows commercial use. Note the licence in README.md.
+- The taxidermist's rule: the eyes follow, the visitor never feels hunted. Cap the speed and add a little lag.
+
+OUTPUT
+- mascot/ with the art, the script and a demo.html I can open
+- The snippet to drop into any page
+- perf/before.json and perf/after.json
+- README.md: how to swap colours, change the reactions, or turn it off
+
+Prompt #0009 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

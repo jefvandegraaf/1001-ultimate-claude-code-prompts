@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0009 Keyword cluster map
+## #0010 Keyword cluster map
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -46,10 +46,10 @@ OUTPUT
 - out/disallowed.csv, cluster.py, README.md for re-running next quarter
 - In chat: the top 5 pages to build first and why
 
-Prompt #0009 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0010 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0010 Technical SEO audit
+## #0011 Technical SEO audit
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -95,10 +95,10 @@ OUTPUT
 - audit.py and a README.md for the next crawl
 - In chat: a one-paragraph summary for my web person
 
-Prompt #0010 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0011 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0011 12 Google Business Profile posts
+## #0012 12 Google Business Profile posts
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -143,10 +143,10 @@ OUTPUT
 - gbp/plan.md, gbp/posts/, gbp/posts.csv, check.js
 - In chat: check results and [DETAIL NEEDED] gaps
 
-Prompt #0011 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0012 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0012 Meta titles for 200 pages
+## #0013 Meta titles for 200 pages
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -190,5 +190,5 @@ OUTPUT
 - seo/current.csv, proposed.csv, competing.md, apply.js, and a README.md
 - In chat: pages found, pages changed, verify result
 
-Prompt #0012 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0013 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
