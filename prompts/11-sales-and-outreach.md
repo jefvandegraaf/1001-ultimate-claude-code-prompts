@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0037 Research 50 prospects
+## #0038 Research 50 prospects
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -47,10 +47,10 @@ OUTPUT
 - README.md: best sources, how to re-run next month
 - In chat: row count, check results, anything unverified
 
-Prompt #0037 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0038 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0038 Personalised cold emails
+## #0039 Personalised cold emails
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -99,10 +99,10 @@ OUTPUT
 - README.md for re-running it next month
 - In chat: emails written, rows skipped, final check result
 
-Prompt #0038 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0039 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0039 Proposal from call notes
+## #0040 Proposal from call notes
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -150,10 +150,10 @@ OUTPUT
 - proposal/questions.md: anything unanswered
 - In chat: page count and every [PROOF NEEDED]
 
-Prompt #0039 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0040 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0040 Objection handling script
+## #0041 Objection handling script
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -198,5 +198,5 @@ OUTPUT
 - README.md on re-running this after next month's calls
 - In chat: top 3 objections by count, then 3 role-play rounds: you play a tough buyer, I answer, you score me 1 to 10. Start when I say go.
 
-Prompt #0040 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0041 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

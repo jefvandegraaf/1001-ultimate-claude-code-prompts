@@ -5,9 +5,9 @@ Every prompt sits next to what a cheap freelancer and an expensive agency would 
 Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
 
 <!-- index:start -->
-**52 of 1001 prompts written so far.**
+**59 of 1001 prompts written so far.**
 
-All of them, done by a cheap freelancer: ~~$11,240~~. By an expensive agency: ~~$344,000~~. By Claude Code: **$200 a month**.
+All of them, done by a cheap freelancer: ~~$18,740~~. By an expensive agency: ~~$468,500~~. By Claude Code: **$200 a month**.
 
 | Category | Prompts | Numbers |
 |---|---|---|
@@ -16,15 +16,22 @@ All of them, done by a cheap freelancer: ~~$11,240~~. By an expensive agency: ~~
 | [SEO](prompts/03-seo.md) | 4 | #0009 to #0012 |
 | [Email Marketing](prompts/04-email-marketing.md) | 4 | #0013 to #0016 |
 | [Social Media](prompts/05-social-media.md) | 4 | #0017 to #0020 |
-| [Video & Audio](prompts/06-video-and-audio.md) | 4 | #0021 to #0024 |
-| [Design & Branding](prompts/07-design-and-branding.md) | 4 | #0025 to #0028 |
-| [Data & Spreadsheets](prompts/08-data-and-spreadsheets.md) | 4 | #0029 to #0032 |
-| [Admin & Inbox](prompts/09-admin-and-inbox.md) | 4 | #0033 to #0036 |
-| [Sales & Outreach](prompts/10-sales-and-outreach.md) | 4 | #0037 to #0040 |
-| [Strategy & Consulting](prompts/11-strategy-and-consulting.md) | 1 | #0041 to #0041 |
-| [Docs & Policies](prompts/12-docs-and-policies.md) | 4 | #0042 to #0045 |
-| [Dev & Automation](prompts/13-dev-and-automation.md) | 4 | #0046 to #0049 |
-| [Build Your Own](prompts/14-build-your-own.md) | 3 | #0050 to #0052 |
+| [Faceless Channels & Clipping](prompts/06-faceless-channels-and-clipping.md) | 1 | #0021 to #0021 |
+| [Video & Audio](prompts/07-video-and-audio.md) | 4 | #0022 to #0025 |
+| [Design & Branding](prompts/08-design-and-branding.md) | 4 | #0026 to #0029 |
+| [Data & Spreadsheets](prompts/09-data-and-spreadsheets.md) | 4 | #0030 to #0033 |
+| [Admin & Inbox](prompts/10-admin-and-inbox.md) | 4 | #0034 to #0037 |
+| [Sales & Outreach](prompts/11-sales-and-outreach.md) | 4 | #0038 to #0041 |
+| [Strategy & Consulting](prompts/12-strategy-and-consulting.md) | 1 | #0042 to #0042 |
+| [Docs & Policies](prompts/13-docs-and-policies.md) | 4 | #0043 to #0046 |
+| [Dev & Automation](prompts/14-dev-and-automation.md) | 4 | #0047 to #0050 |
+| [Build Your Own](prompts/15-build-your-own.md) | 3 | #0051 to #0053 |
+| [Second Brain](prompts/16-second-brain.md) | 1 | #0054 to #0054 |
+| [Fitness](prompts/17-fitness.md) | 1 | #0055 to #0055 |
+| [Therapy & Self-Care](prompts/18-therapy-and-self-care.md) | 1 | #0056 to #0056 |
+| [Enlightenment](prompts/19-enlightenment.md) | 1 | #0057 to #0057 |
+| [Relationships & Breakups](prompts/20-relationships-and-breakups.md) | 1 | #0058 to #0058 |
+| [Parenting](prompts/21-parenting.md) | 1 | #0059 to #0059 |
 <!-- index:end -->
 
 ## How to use a prompt

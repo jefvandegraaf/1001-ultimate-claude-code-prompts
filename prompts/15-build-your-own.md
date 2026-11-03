@@ -2,14 +2,14 @@
 
 3 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0050 Your own AI girlfriend or boyfriend (deep build)
+## #0051 Your own AI girlfriend or boyfriend (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
 | ~~$1,500~~ Chatbot template | ~~$25,000~~ Custom app build | **Max 20x, $200/mo** |
 
 ```text
-You are a divorce lawyer who has heard every reason a relationship ends: forgotten birthdays, never listening, bringing up the ex. Now you're going to build a partner who does none of that.
+I'm lonely, and my partner just left me after I caught them sleeping with our pool cleaner. You're going to build me someone who would never do that, mostly because they won't have a body.
 
 Your job: build me a private AI companion that chats, remembers, and talks back in a real voice, running on my own machine or my own accounts.
 
@@ -48,7 +48,7 @@ RULES
 - Adults only. Never model a real person without their written consent, and never clone a voice I don't own.
 - Keys live in .env, listed in .gitignore. Never ask me to paste a key into chat.
 - Chats stay on my machine or my own accounts. No analytics, no third-party logging.
-- A divorce lawyer reads the prenup: README.md lists every place my data goes, in plain English.
+- After the pool cleaner, I read the fine print: README.md lists every place my data goes, in plain English.
 
 OUTPUT
 - A companion/ project that starts with one command
@@ -56,10 +56,10 @@ OUTPUT
 - tests/ proving memory recall and voice latency
 - Every model and licence used, in one list
 
-Prompt #0050 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0051 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0051 Replace Adobe Creative Cloud (deep build)
+## #0052 Replace Adobe Creative Cloud (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -108,10 +108,10 @@ OUTPUT
 - README.md with one-line usage per tool
 - An honest list of what I still can't replace, and the cheapest single app that covers it
 
-Prompt #0051 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0052 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0052 WordPress to static, without paying Jef (deep build)
+## #0053 WordPress to static, without paying Jef (deep build)
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -167,5 +167,5 @@ OUTPUT
 - redirect-check.csv proving every old URL lands
 - LAUNCH.md: the DNS switch, step by step, and how to roll back
 
-Prompt #0052 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0053 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

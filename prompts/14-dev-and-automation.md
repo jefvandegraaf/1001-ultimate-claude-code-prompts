@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0046 Contact form that emails you
+## #0047 Contact form that emails you
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -47,10 +47,10 @@ OUTPUT
 - worker/README.md: deploy steps with exact commands, how to re-run the tests
 - In chat: files changed, one line each, plus test and curl results
 
-Prompt #0046 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0047 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0047 Payment to sheet to Slack automation
+## #0048 Payment to sheet to Slack automation
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -94,10 +94,10 @@ OUTPUT
 - README.md: setup commands, running the tests and replay.js, going live
 - In chat: what each file does, and the test results
 
-Prompt #0047 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0048 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0048 Find and fix a bug
+## #0049 Find and fix a bug
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -143,10 +143,10 @@ OUTPUT
 - debug/case-notes.md: cause, suspects ruled out, test results before and after, where else it could hide
 - In chat: the cause and the diff
 
-Prompt #0048 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0049 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0049 Internal dashboard from an API
+## #0050 Internal dashboard from an API
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -191,5 +191,5 @@ OUTPUT
 - README.md: deploy commands, where each number comes from, adding a metric later
 - In chat: what I still need to set up
 
-Prompt #0049 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0050 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

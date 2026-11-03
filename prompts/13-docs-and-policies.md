@@ -2,7 +2,7 @@
 
 4 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
 
-## #0042 Privacy policy first draft
+## #0043 Privacy policy first draft
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -54,10 +54,10 @@ OUTPUT
 - legal/README.md: how to re-run the audit when I add a tool
 - In chat: open questions before this goes live
 
-Prompt #0042 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0043 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0043 Contract in plain English
+## #0044 Contract in plain English
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -106,10 +106,10 @@ OUTPUT
 - review/redlines.md: replacement wording for each red item, for my lawyer
 - In chat: the red items, one line each
 
-Prompt #0043 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0044 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0044 SOP from a recording
+## #0045 SOP from a recording
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -155,10 +155,10 @@ OUTPUT
 - sop/gaps.md: one question per gap
 - In chat: steps that could be automated or cut
 
-Prompt #0044 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0045 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
-## #0045 Compare two versions of a document
+## #0046 Compare two versions of a document
 
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
@@ -202,5 +202,5 @@ OUTPUT
 - compare/cosmetic.md and the check script
 - In chat: the top 3 changes, one paragraph each
 
-Prompt #0045 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
+Prompt #0046 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
