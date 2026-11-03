@@ -72,8 +72,6 @@ Everything lives in [`data/prompts.json`](data/prompts.json): number, category, 
 
 This is a parody, and none of these prompts have been tested. Read [DISCLAIMER.md](DISCLAIMER.md) before you use them. Task ideas partly come from other prompt collections, credited in [CREDITS.md](CREDITS.md).
 
-Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).
-
 ## Prevent poverty
 
 [Save Jef from starvation by becoming a patron of his work.](https://jefvandegraaf.com/patron/)
