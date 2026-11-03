@@ -82,4 +82,4 @@ This is a parody, and none of these prompts have been tested. Read [DISCLAIMER.m
 
 If the world feels like it's drowning in slop, that's because it was always full of **sloppy humans**. The difference now is that they have a tool that makes slop production faster, cheaper and easier to spread than ever before.
 
-Made by [Jef van de Graaf](https://jefvandegraaf.com/).
+Made with the purest love for humanity by [Jef van de Graaf](https://jefvandegraaf.com/).
