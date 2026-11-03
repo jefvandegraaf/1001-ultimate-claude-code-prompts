@@ -50,4 +50,6 @@ OUTPUT
 - deck/index.html, 10 slides, answer first
 - plan.md with the 90 days
 - kpi-tracker.csv to update every Friday
+
+Prompt #0041 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

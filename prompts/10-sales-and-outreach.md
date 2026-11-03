@@ -46,6 +46,8 @@ OUTPUT
 - out/top10.md: one line each on why
 - README.md: best sources, how to re-run next month
 - In chat: row count, check results, anything unverified
+
+Prompt #0037 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0038 Personalised cold emails
@@ -96,6 +98,8 @@ OUTPUT
 - out/follow-ups.md: day 3, 7 and 14, each under 50 words, each adding something new
 - README.md for re-running it next month
 - In chat: emails written, rows skipped, final check result
+
+Prompt #0038 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0039 Proposal from call notes
@@ -145,6 +149,8 @@ OUTPUT
 - proposal/cover-email.txt: 4 lines to send with it
 - proposal/questions.md: anything unanswered
 - In chat: page count and every [PROOF NEEDED]
+
+Prompt #0039 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0040 Objection handling script
@@ -191,4 +197,6 @@ OUTPUT
 - sales/cheat-sheet.html and .pdf
 - README.md on re-running this after next month's calls
 - In chat: top 3 objections by count, then 3 role-play rounds: you play a tough buyer, I answer, you score me 1 to 10. Start when I say go.
+
+Prompt #0040 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

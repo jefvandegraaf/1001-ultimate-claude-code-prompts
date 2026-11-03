@@ -44,6 +44,8 @@ OUTPUT
 - brand/tokens.css with every CSS variable
 - brand/contrast.csv: each pair, ratio, pass or fail
 - In chat: 3 lines on what you'd change in the logo
+
+Prompt #0025 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0026 10 social graphics from brand tokens
@@ -90,6 +92,8 @@ OUTPUT
 - captions.md: one caption per card, under 30 words
 - README.md: edit cards.json, run node render.js
 - In chat: anything the checks flagged
+
+Prompt #0026 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0027 12-slide pitch deck
@@ -137,6 +141,8 @@ OUTPUT
 - pitch/speaker-notes.md, 40 to 60 words per slide
 - pitch/questions.md with suggested answers
 - In chat: every [NEED DATA] gap
+
+Prompt #0027 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0028 Favicon and share images
@@ -185,4 +191,6 @@ OUTPUT
 - tools/make-icons.js, to re-run when the logo changes
 - icons-report.md: pages changed and skipped, with reasons
 - head-snippet.html for future pages
+
+Prompt #0028 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

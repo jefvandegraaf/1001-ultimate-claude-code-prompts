@@ -8,6 +8,8 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const data = JSON.parse(fs.readFileSync(path.join(root, "data/prompts.json"), "utf8"));
 const PLANS = { 20: "Pro, $20/mo", 100: "Max 5x, $100/mo", 200: "Max 20x, $200/mo" };
 const usd = n => "$" + n.toLocaleString("en-US");
+// Travels with every copy, as CC BY 4.0 asks
+const credit = p => `Prompt #${p.id} from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com`;
 const slug = s => s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 // One Markdown file per category
@@ -29,6 +31,8 @@ data.categories.forEach((cat, ci) => {
     "",
     "```text",
     p.prompt,
+    "",
+    credit(p),
     "```",
     ""
   ].join("\n")).join("\n");

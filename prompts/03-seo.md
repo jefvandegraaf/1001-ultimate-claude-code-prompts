@@ -45,6 +45,8 @@ OUTPUT
 - out/clusters.csv: cluster, page type, keyword, intent, volume, difficulty, existing URL, score
 - out/disallowed.csv, cluster.py, README.md for re-running next quarter
 - In chat: the top 5 pages to build first and why
+
+Prompt #0009 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0010 Technical SEO audit
@@ -92,6 +94,8 @@ OUTPUT
 - report/issues.csv: issue, URL, severity, fix
 - audit.py and a README.md for the next crawl
 - In chat: a one-paragraph summary for my web person
+
+Prompt #0010 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0011 12 Google Business Profile posts
@@ -138,6 +142,8 @@ RULES
 OUTPUT
 - gbp/plan.md, gbp/posts/, gbp/posts.csv, check.js
 - In chat: check results and [DETAIL NEEDED] gaps
+
+Prompt #0011 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0012 Meta titles for 200 pages
@@ -183,4 +189,6 @@ RULES
 OUTPUT
 - seo/current.csv, proposed.csv, competing.md, apply.js, and a README.md
 - In chat: pages found, pages changed, verify result
+
+Prompt #0012 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

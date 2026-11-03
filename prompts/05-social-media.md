@@ -44,6 +44,8 @@ OUTPUT
 - linkedin/plan.csv and 30 post files
 - linkedin/check.js, reusable next month
 - In chat: best posting windows for my timezone and every [STORY NEEDED]
+
+Prompt #0017 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0018 Blog post into 10 posts
@@ -90,6 +92,8 @@ OUTPUT
 - social/[slug]/ideas.csv, linkedin.md, x.md, instagram.md, schedule.csv
 - social/check.js, reusable
 - In chat: the 3 strongest posts
+
+Prompt #0018 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0019 Comment and DM reply bank
@@ -137,6 +141,8 @@ OUTPUT
 - replies/bank.md and bank.csv: group, message, reply, variations
 - replies/quick-replies.md: 5 saved replies
 - In chat: counts per group
+
+Prompt #0019 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0020 Carousel, designed and exported
@@ -186,4 +192,6 @@ OUTPUT
 - template.html, slides.json, build.js, README.md
 - caption.md: 80 to 150 words, first line under 125 characters, up to 5 hashtags, alt text per slide
 - In chat: contrast ratios and flags
+
+Prompt #0020 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

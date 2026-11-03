@@ -43,6 +43,10 @@ Some prompts go further than text. They connect real tools and models, like Olla
 
 Everything lives in [`data/prompts.json`](data/prompts.json): number, category, task, prices, Claude Code plan, tone and the full prompt. The Markdown files in `prompts/` are generated from it with `node scripts/build.mjs`.
 
+## License
+
+[CC BY 4.0](LICENSE). Use the prompts for anything, including paid work. If you republish them, credit **Jef van de Graaf** with a link to [jefvandegraaf.com](https://jefvandegraaf.com/), and keep the credit line at the end of each prompt.
+
 ## The small print
 
 This is a parody, and none of these prompts have been tested. Read [DISCLAIMER.md](DISCLAIMER.md) before you use them. Task ideas partly come from other prompt collections, credited in [CREDITS.md](CREDITS.md).

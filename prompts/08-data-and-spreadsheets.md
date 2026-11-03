@@ -48,6 +48,8 @@ OUTPUT
 - out/review.csv: rows needing a human
 - clean_crm.py plus README.md for next month's export
 - In chat: rows in, rows out, merged, flagged
+
+Prompt #0029 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0030 Monthly P&L from bank exports
@@ -94,6 +96,8 @@ OUTPUT
 - out/review.csv with your best guess per line
 - pnl.py, rules.csv and README.md for next month
 - In chat: 3 lines on what stood out
+
+Prompt #0030 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0031 Spreadsheet formula build
@@ -138,6 +142,8 @@ OUTPUT
 - formulas.md: cell, formula, what it does, expected and actual result
 - Any script, with install steps
 - In chat: 2 ways this could break later and how to spot it
+
+Prompt #0031 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0032 Survey answers into a themes report
@@ -185,4 +191,6 @@ OUTPUT
 - out/coded.csv: response ID, themes, sentiment
 - code_survey.py to re-run the counts
 - In chat: the top 3 findings
+
+Prompt #0032 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

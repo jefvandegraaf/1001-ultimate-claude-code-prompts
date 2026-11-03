@@ -46,6 +46,8 @@ OUTPUT
 - issues/[date]/issue.md, issue.html, subjects.md
 - issues/[date]/cut.md, and voice.md for next week
 - In chat: the story you picked, the word count, every [CHECK]
+
+Prompt #0013 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0014 Win-back campaign
@@ -90,6 +92,8 @@ RULES
 OUTPUT
 - winback/segment.py, segments/*.csv, emails/01.md to 03.md, README.md
 - In chat: counts and which segment goes first
+
+Prompt #0014 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0015 Subject line test sets
@@ -137,6 +141,8 @@ RULES
 OUTPUT
 - subjects/subjects.csv, analyze.py, findings.md, test-plan.md
 - In chat: the A/B pair and hypothesis
+
+Prompt #0015 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0016 Email deliverability check
@@ -184,4 +190,6 @@ OUTPUT
 - deliverability/report.md: status table (record, found, pass or fail, why) and ranked fixes
 - deliverability/records.txt: copy-paste records
 - In chat: top 3 fixes, and what a re-run in 48 hours should show
+
+Prompt #0016 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

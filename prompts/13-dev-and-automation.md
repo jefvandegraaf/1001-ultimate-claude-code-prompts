@@ -46,6 +46,8 @@ OUTPUT
 - The contact-form branch
 - worker/README.md: deploy steps with exact commands, how to re-run the tests
 - In chat: files changed, one line each, plus test and curl results
+
+Prompt #0046 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0047 Payment to sheet to Slack automation
@@ -91,6 +93,8 @@ OUTPUT
 - payments-worker/ with passing tests
 - README.md: setup commands, running the tests and replay.js, going live
 - In chat: what each file does, and the test results
+
+Prompt #0047 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0048 Find and fix a bug
@@ -138,6 +142,8 @@ OUTPUT
 - The fix/[short-name] branch with the fix and new test, uncommitted
 - debug/case-notes.md: cause, suspects ruled out, test results before and after, where else it could hide
 - In chat: the cause and the diff
+
+Prompt #0048 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0049 Internal dashboard from an API
@@ -184,4 +190,6 @@ OUTPUT
 - dashboard/ with plan.md and passing tests
 - README.md: deploy commands, where each number comes from, adding a metric later
 - In chat: what I still need to set up
+
+Prompt #0049 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

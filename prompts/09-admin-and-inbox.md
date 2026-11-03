@@ -46,6 +46,8 @@ OUTPUT
 - out/newsletters.csv: sender and emails per month, so I can pick what to drop
 - triage.py for next month
 - In chat: a 2-minute daily routine that keeps it working
+
+Prompt #0033 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0034 Meeting notes into actions
@@ -92,6 +94,8 @@ OUTPUT
 - One summary .md and one email .txt per meeting in meetings/out/
 - meetings/out/actions.csv, appended, never overwritten
 - In chat: every [OWNER NEEDED] and [DATE NEEDED]
+
+Prompt #0034 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0035 Trip plan and itinerary
@@ -138,6 +142,8 @@ OUTPUT
 - In the trip folder: itinerary.md, a printable itinerary.html, trip.ics
 - bookings.csv: book now, 2 weeks out or on the day, and why
 - In chat: a short packing note and every [CHECK] item
+
+Prompt #0035 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0036 Folder clean-up with undo log
@@ -185,4 +191,6 @@ OUTPUT
 - cleanup/scan.csv, plan.csv and README.md
 - After approval: move-log.csv, move.py, undo.py, before and after counts
 - In chat: the scan summary
+
+Prompt #0036 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

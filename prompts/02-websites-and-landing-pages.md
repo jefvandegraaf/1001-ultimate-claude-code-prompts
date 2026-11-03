@@ -47,6 +47,8 @@ RULES
 OUTPUT
 - site/, DEPLOY.md, and TODO.md listing everything I still need to supply
 - In chat: page weight, contrast ratios, widths checked
+
+Prompt #0005 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0006 Landing page variant for an A/B test
@@ -91,6 +93,8 @@ OUTPUT
 - variant-b/index.html on its own branch
 - test/hypothesis.md, test/sample-size.py
 - In chat: diff summary, sample size, test length, stop rule
+
+Prompt #0006 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0007 Page speed fix
@@ -136,6 +140,8 @@ RULES
 OUTPUT
 - perf/ before and after files, CHANGES.md
 - In chat: a before and after table of weight, LCP, CLS, TBT and score, plus open decisions
+
+Prompt #0007 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0008 Mobile layout check
@@ -187,4 +193,6 @@ OUTPUT
 - qa/measure.js, qa/problems.csv, before and after screenshots in qa/shots/
 - The CSS added, commented per rule
 - In chat: the desktop diff, which must be empty
+
+Prompt #0008 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

@@ -55,6 +55,8 @@ OUTPUT
 - README.md with setup, monthly costs and how to wipe all memory
 - tests/ proving memory recall and voice latency
 - Every model and licence used, in one list
+
+Prompt #0050 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0051 Replace Adobe Creative Cloud (deep build)
@@ -105,6 +107,8 @@ OUTPUT
 - adobe-audit.md and before-after/
 - README.md with one-line usage per tool
 - An honest list of what I still can't replace, and the cheapest single app that covers it
+
+Prompt #0051 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0052 WordPress to static, without paying Jef (deep build)
@@ -162,4 +166,6 @@ OUTPUT
 - method.md, audit.csv and _redirects
 - redirect-check.csv proving every old URL lands
 - LAUNCH.md: the DNS switch, step by step, and how to roll back
+
+Prompt #0052 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

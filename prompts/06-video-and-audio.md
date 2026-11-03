@@ -46,6 +46,8 @@ OUTPUT
 - clips/clips.csv: source timestamps, hook, caption under 150 characters
 - make_clips.py and work/ transcripts
 - In chat: the ffprobe table
+
+Prompt #0021 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0022 Cut silences and filler words
@@ -94,6 +96,8 @@ OUTPUT
 - [name]-cuts.csv
 - cleancut.py
 - In chat: duration before and after, jump cuts
+
+Prompt #0022 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0023 Subtitles in 5 languages
@@ -142,6 +146,8 @@ OUTPUT
 - subs/: one SRT per language, plus check.py
 - subs/notes.md: judgement calls (number, original, translation, why), every [INAUDIBLE]
 - In chat: the ffmpeg burn-in command
+
+Prompt #0023 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0024 Clean up voice audio
@@ -190,4 +196,6 @@ OUTPUT
 - before-after.csv: file, LUFS, true peak, loudness range
 - clean_voice.py and README.md
 - In chat: any file that failed the re-measure
+
+Prompt #0024 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

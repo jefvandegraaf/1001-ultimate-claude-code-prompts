@@ -50,6 +50,8 @@ OUTPUT
 - copy/homepage.md, drafts/index.html, research.md
 - copy/headlines.md: 3 alternatives and the reader each targets
 - In chat: reading grade and [PROOF NEEDED] gaps
+
+Prompt #0001 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0002 5-email welcome sequence
@@ -94,6 +96,8 @@ OUTPUT
 - emails/, voice.md, check.js
 - sequence.csv: day, subject, preview, body, 2 alternative subjects
 - In chat: check results and [STORY NEEDED] gaps
+
+Prompt #0002 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0003 50 product descriptions
@@ -139,6 +143,8 @@ OUTPUT
 - out/thin-rows.csv, with the facts you need
 - verify.js plus a README.md for new products
 - In chat: rows written and verify results
+
+Prompt #0003 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0004 Long-form sales page
@@ -186,4 +192,6 @@ RULES
 OUTPUT
 - sales-page.md, sales-page/index.html, voc.md, and headlines.md with 5 options
 - In chat: the [PROOF NEEDED] list, ranked by trust impact
+
+Prompt #0004 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```

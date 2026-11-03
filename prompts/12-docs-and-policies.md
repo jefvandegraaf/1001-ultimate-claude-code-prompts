@@ -53,6 +53,8 @@ OUTPUT
 - legal/lawyer-checks.md: each [LAWYER CHECK] with the question to ask
 - legal/README.md: how to re-run the audit when I add a tool
 - In chat: open questions before this goes live
+
+Prompt #0042 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0043 Contract in plain English
@@ -103,6 +105,8 @@ OUTPUT
 - review/questions.md: for my lawyer, and separately for the other party
 - review/redlines.md: replacement wording for each red item, for my lawyer
 - In chat: the red items, one line each
+
+Prompt #0043 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0044 SOP from a recording
@@ -150,6 +154,8 @@ OUTPUT
 - sop/[task-name].md, a printable sop/[task-name].html, and sop/img/
 - sop/gaps.md: one question per gap
 - In chat: steps that could be automated or cut
+
+Prompt #0044 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
 
 ## #0045 Compare two versions of a document
@@ -195,4 +201,6 @@ OUTPUT
 - compare/pushback.md: wording for each push back, for my lawyer
 - compare/cosmetic.md and the check script
 - In chat: the top 3 changes, one paragraph each
+
+Prompt #0045 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
