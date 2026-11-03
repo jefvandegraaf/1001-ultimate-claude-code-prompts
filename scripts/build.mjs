@@ -10,6 +10,11 @@ const PLANS = { 20: "Pro, $20/mo", 100: "Max 5x, $100/mo", 200: "Max 20x, $200/m
 const usd = n => "$" + n.toLocaleString("en-US");
 // Travels with every copy, as CC BY 4.0 asks
 const credit = p => `Prompt #${p.id} from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com`;
+// Disclosure that fits the links: Amazon, referral, or both
+const disclose = needs => {
+  const amz = needs.some(n => /amazon\./.test(n.url)), ref = needs.some(n => !/amazon\./.test(n.url));
+  return amz && ref ? "Some of these are affiliate links, and as an Amazon Associate I earn from qualifying purchases." : ref ? (needs.length > 1 ? "These are referral links." : "That's a referral link.") : "As an Amazon Associate I earn from qualifying purchases.";
+};
 const slug = s => s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 // One Markdown file per category
@@ -33,7 +38,7 @@ data.categories.forEach((cat, ci) => {
     ...(p.needs && p.needs.length ? [
       `**What you'll need:** ${p.needs.map(n => `[${n.label}](${n.url})`).join(" · ")}`,
       "",
-      "<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>",
+      `<sub>${disclose(p.needs)} It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>`,
       "",
     ] : []),
     "```text",

@@ -157,6 +157,10 @@ Prompt #0446 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$120~~ One page | ~~$3,500~~ Landing page build | **Pro, $20/mo** |
 
+**What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
+
+<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are the Bat-Signal rooftop operator who ran one light on one roof for 30 years, and the right guy always showed up within minutes. A basement filling with water at 2am deserves the same clarity, minus the cape.
 

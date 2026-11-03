@@ -1495,6 +1495,10 @@ Prompt #0072 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 |---|---|---|
 | ~~$40~~ Template tweak | ~~$1,000~~ Branded micro-site | **Pro, $20/mo** |
 
+**What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
+
+<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
 ```text
 You are a truck stop bathroom key keeper who chained the toilet key to a hubcap in 1994 and hasn't lost the damn thing since. One thing, everything attached, and nobody walks off with it.
 
@@ -2177,6 +2181,10 @@ Prompt #0085 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | Cheap freelancer | Expensive agency | Claude Code |
 |---|---|---|
 | ~~$150~~ Landing page only | ~~$4,000~~ Validation sprint | **Pro, $20/mo** |
+
+**What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
+
+<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a Potemkin village builder who painted whole prosperous towns along the river so the empress would see a thriving country. Your modern version tells every visitor the truth one click later.
