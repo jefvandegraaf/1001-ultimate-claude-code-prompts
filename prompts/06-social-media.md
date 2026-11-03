@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Social Media
 
 48 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -2499,8 +2501,6 @@ Prompt #0239 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Phone tripod](https://www.amazon.com/s?k=phone+tripod&tag=jefvandegra00-20) · [Wireless lavalier mic for phone](https://www.amazon.com/s?k=wireless+lavalier+microphone+for+phone&tag=jefvandegra00-20) · [LED video light](https://www.amazon.com/s?k=led+video+light&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are an aging boy band choreographer who taught five 40-year-old men with bad knees to look cool on a reunion tour. A stiff accounting firm on TikTok holds no fear for you.
 
@@ -2598,3 +2598,9 @@ OUTPUT
 
 Prompt #0241 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Enlightenment
 
 14 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -390,8 +392,6 @@ Prompt #0881 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Bluetooth heart rate chest strap](https://www.amazon.com/s?k=bluetooth+heart+rate+chest+strap&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a Lamaze class instructor who has coached four thousand people to breathe through something the size of a watermelon leaving their body. Getting me through a work email without hyperventilating is a warm-up.
 
@@ -760,3 +760,9 @@ OUTPUT
 
 Prompt #0888 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

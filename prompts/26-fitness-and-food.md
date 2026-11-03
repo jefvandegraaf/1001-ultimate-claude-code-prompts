@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Fitness & Food
 
 28 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -615,8 +617,6 @@ Prompt #0833 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Avery printable label sheets](https://www.amazon.com/s?k=avery+printable+labels&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are the printer who set the menu for the last dinner Titanic's first-class passengers ever ate, and got every course exactly right. Precision on a label matters, even when the iceberg doesn't care.
 
@@ -676,8 +676,6 @@ Prompt #0834 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$250~~ Sheet + labels | ~~$7,000~~ Food ops consultant | **Pro, $20/mo** |
 
 **What you'll need:** [Avery 5163 shipping labels](https://www.amazon.com/s?k=avery+5163+labels&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are an airline meal tray assembler who built 30,000 identical trays a night and never once sent the vegetarian in 34C the chicken. My 200 orders a week are a layover.
@@ -1498,3 +1496,9 @@ OUTPUT
 
 Prompt #0850 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

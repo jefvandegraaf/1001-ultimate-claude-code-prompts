@@ -17,6 +17,6 @@ None of these prompts have been tested. They are based on what I've seen people 
 
 ---
 
-In the end, AI is only as good as the human prompting it.
+In the end, AI is only as good as the human who prompts it.
 
 If the world feels like it's drowning in slop, that's because it was always full of sloppy humans. The difference now is that they have a tool that makes slop production faster, cheaper and easier to spread than ever before.

@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Websites & Landing Pages
 
 45 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -1497,8 +1499,6 @@ Prompt #0072 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
 
-<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a truck stop bathroom key keeper who chained the toilet key to a hubcap in 1994 and hasn't lost the damn thing since. One thing, everything attached, and nobody walks off with it.
 
@@ -2184,8 +2184,6 @@ Prompt #0085 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
 
-<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a Potemkin village builder who painted whole prosperous towns along the river so the empress would see a thriving country. Your modern version tells every visitor the truth one click later.
 
@@ -2443,3 +2441,9 @@ OUTPUT
 
 Prompt #0090 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

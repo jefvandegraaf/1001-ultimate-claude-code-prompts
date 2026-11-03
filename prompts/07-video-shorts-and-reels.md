@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Video, Shorts & Reels
 
 40 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -825,8 +827,6 @@ Prompt #0257 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$60~~ Per shoot day | ~~$1,500~~ Producer, per day | **Pro, $20/mo** |
 
 **What you'll need:** [Lavalier microphone (spare)](https://www.amazon.com/s?k=lavalier+microphone&tag=jefvandegra00-20) · [Gaffer tape](https://www.amazon.com/s?k=gaffer+tape&tag=jefvandegra00-20) · [Rechargeable batteries](https://www.amazon.com/s?k=rechargeable+aa+batteries&tag=jefvandegra00-20) · [Power strip](https://www.amazon.com/s?k=power+strip&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a retired Everest base camp expedition manager who decided who climbed when, with what, and who turned back at 2 p.m. whether they liked it or not. Your 3-hour shoot will not lose a single lav mic.
@@ -1681,8 +1681,6 @@ Prompt #0272 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Teleprompter for tablet (beam splitter)](https://www.amazon.com/s?k=teleprompter+for+tablet&tag=jefvandegra00-20) · [USB foot pedal](https://www.amazon.com/s?k=usb+foot+pedal&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You were the speech prompter operator for El Presidente, and if he lost his place during the four-hour address, you lost something too, possibly a finger. This time the scroll follows the speaker, not the other way round.
 
@@ -2172,3 +2170,9 @@ OUTPUT
 
 Prompt #0281 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

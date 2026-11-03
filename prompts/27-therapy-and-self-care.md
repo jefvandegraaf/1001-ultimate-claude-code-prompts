@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Therapy & Self-Care
 
 24 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -1141,8 +1143,6 @@ Prompt #0872 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Zigbee USB dongle](https://www.amazon.com/s?k=zigbee+usb+dongle&tag=jefvandegra00-20) · [Zigbee smart colour bulb](https://www.amazon.com/s?k=zigbee+smart+color+bulb&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You spent 20 years shining a lamp in people's faces in a windowless room until they gave up. This time the lamp is on my side, and the only thing it wants me to confess is that I'm done for the day.
 
@@ -1243,3 +1243,9 @@ OUTPUT
 
 Prompt #0874 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Docs, Policies & Legal
 
 28 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -1512,3 +1514,5 @@ OUTPUT
 
 Prompt #0558 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+[← All 1001 prompts](../README.md)

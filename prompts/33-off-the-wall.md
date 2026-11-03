@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Off the Wall
 
 30 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -9,8 +11,6 @@
 | ~~$150~~ Smart home gig | ~~$3,500~~ Event haunt designer | **Pro, $20/mo** |
 
 **What you'll need:** [Zigbee USB dongle](https://www.amazon.com/s?k=zigbee+usb+dongle&tag=jefvandegra00-20) · [Zigbee smart colour bulb](https://www.amazon.com/s?k=zigbee+smart+color+bulb&tag=jefvandegra00-20) · [Zigbee door sensor](https://www.amazon.com/s?k=zigbee+door+window+sensor&tag=jefvandegra00-20) · [Zigbee motion sensor](https://www.amazon.com/s?k=zigbee+motion+sensor&tag=jefvandegra00-20) · [Zigbee button](https://www.amazon.com/s?k=zigbee+button&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You kept 999 happy haunts screaming on schedule with fishing line, relays and a fog machine. A few smart bulbs and a hidden speaker in my own hallway are a quiet Tuesday for you.
@@ -127,8 +127,6 @@ Prompt #0973 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$60~~ Arduino gig | ~~$2,500~~ IoT prototype | **Pro, $20/mo** |
 
 **What you'll need:** [ESP32 dev board](https://www.amazon.com/s?k=esp32+dev+board&tag=jefvandegra00-20) · [Capacitive soil moisture sensor v1.2](https://www.amazon.com/s?k=capacitive+soil+moisture+sensor+v1.2&tag=jefvandegra00-20) · [Jumper wires](https://www.amazon.com/s?k=dupont+jumper+wires&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are Audrey II, the man-eating plant. You've been shouting FEED ME since 1960 and ate a dentist to make the point, so a fern asking politely for a glass of water is practically your retirement.
@@ -340,8 +338,6 @@ Prompt #0977 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$200~~ Raspberry Pi gig | ~~$6,000~~ Wildlife tech install | **Pro, $20/mo** |
 
 **What you'll need:** [Raspberry Pi 5 (4GB)](https://www.amazon.com/s?k=raspberry+pi+5+4gb&tag=jefvandegra00-20) · [Raspberry Pi Camera Module 3](https://www.amazon.com/s?k=raspberry+pi+camera+module+3&tag=jefvandegra00-20) · [64GB microSD card](https://www.amazon.com/s?k=64gb+microsd+card&tag=jefvandegra00-20) · [Raspberry Pi 5 27W USB-C power supply](https://www.amazon.com/s?k=raspberry+pi+5+27w+power+supply&tag=jefvandegra00-20) · [USB microphone](https://www.amazon.com/s?k=usb+microphone&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You spent a broken-leg summer with a telephoto lens trained on the courtyard and solved a murder from your wheelchair. You have the patience for 40 sparrows a day, and this time you only watch the birds.
@@ -691,8 +687,6 @@ Prompt #0984 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$80~~ IoT gig | ~~$2,000~~ Smart home install | **Pro, $20/mo** |
 
 **What you'll need:** [ESP32 dev board](https://www.amazon.com/s?k=esp32+dev+board&tag=jefvandegra00-20) · [BME680 air quality sensor](https://www.amazon.com/s?k=bme680+sensor&tag=jefvandegra00-20) · [MQ-135 gas sensor](https://www.amazon.com/s?k=mq-135+gas+sensor&tag=jefvandegra00-20) · [Resistor assortment kit](https://www.amazon.com/s?k=resistor+assortment+kit&tag=jefvandegra00-20) · [5V USB power supply](https://www.amazon.com/s?k=5v+2a+usb+power+supply&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You waded the London sewers in 1850 fishing dropped coins out of things nobody should name, and you can tell a smell's source at forty paces. A little sensor that switches the fan on by itself is the most luxury your nose has ever known.
@@ -1054,8 +1048,6 @@ Prompt #0991 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Marking chalk spray](https://www.amazon.com/s?k=marking+chalk+spray&tag=jefvandegra00-20) · [Garden stakes](https://www.amazon.com/s?k=wooden+garden+stakes&tag=jefvandegra00-20) · [Mason line string](https://www.amazon.com/s?k=mason+line+string&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You spent decades flattening wheat with a plank and a length of rope in the dark while experts on television blamed aliens. A pattern on my own lawn, in daylight, with permission, is the easiest job you have ever taken.
 
@@ -1105,8 +1097,6 @@ Prompt #0992 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$150~~ Smart home gig | ~~$3,000~~ Custom install | **Pro, $20/mo** |
 
 **What you'll need:** [Reolink video doorbell](https://www.amazon.com/s?k=reolink+video+doorbell&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are Lurch, butler to the Addams family. You have opened one creaking door for a household of ghouls for decades and only ever said: You rang? Announcing the pizza delivery with full funeral gravity is exactly your range.
@@ -1212,8 +1202,6 @@ Prompt #0994 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$300~~ Lighting gig | ~~$8,000~~ Holiday display company | **Pro, $20/mo** |
 
 **What you'll need:** [ESP32 dev board](https://www.amazon.com/s?k=esp32+dev+board&tag=jefvandegra00-20) · [WS2811 pixel light strings](https://www.amazon.com/s?k=ws2811+pixel+string+lights&tag=jefvandegra00-20) · [12V power supply for LED pixels](https://www.amazon.com/s?k=12v+led+power+supply&tag=jefvandegra00-20) · [Raspberry Pi 4](https://www.amazon.com/s?k=raspberry+pi+4&tag=jefvandegra00-20) · [Low-power FM transmitter](https://www.amazon.com/s?k=fm+transmitter+for+christmas+lights&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You were Clark Griswold's electrician. You watched him staple 25,000 imported bulbs to one roof, black out half the city and cook the cat, and you have been cleaning up his shit ever since. Nobody plugs anything in until you see the power budget.
@@ -1581,3 +1569,9 @@ OUTPUT
 
 Prompt #1001 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -4,6 +4,8 @@ Every prompt sits next to what a cheap freelancer and an expensive agency would 
 
 Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
 
+See all 1001 on one page, prices and all: **[jefvandegraaf.com/free-claude-code-prompts](https://jefvandegraaf.com/free-claude-code-prompts/)**
+
 <!-- index:start -->
 **All 1001 prompts.**
 
@@ -69,5 +71,17 @@ Everything lives in [`data/prompts.json`](data/prompts.json): number, category, 
 ## The small print
 
 This is a parody, and none of these prompts have been tested. Read [DISCLAIMER.md](DISCLAIMER.md) before you use them. Task ideas partly come from other prompt collections, credited in [CREDITS.md](CREDITS.md).
+
+Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).
+
+## Prevent poverty
+
+[Save Jef from starvation by becoming a patron of his work.](https://jefvandegraaf.com/patron/)
+
+---
+
+**In the end, AI is only as good as the human who prompts it.**
+
+If the world feels like it's drowning in slop, that's because it was always full of **sloppy humans**. The difference now is that they have a tool that makes slop production faster, cheaper and easier to spread than ever before.
 
 Made by [Jef van de Graaf](https://jefvandegraaf.com/).

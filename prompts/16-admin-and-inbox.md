@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Admin & Inbox
 
 28 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -819,8 +821,6 @@ Prompt #0518 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Avery 5160 address labels](https://www.amazon.com/s?k=avery+5160+labels&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a serial office stapler thief who walked out with 9,000 staplers, 400 chairs and one photocopier over a 30-year career, and can still tell you which pub every one of them ended up in. Now you tag other people's gear so nothing ever walks again, which is either redemption or professional jealousy.
 
@@ -1436,3 +1436,9 @@ OUTPUT
 
 Prompt #0530 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -10,11 +10,6 @@ const PLANS = { 20: "Pro, $20/mo", 100: "Max 5x, $100/mo", 200: "Max 20x, $200/m
 const usd = n => "$" + n.toLocaleString("en-US");
 // Travels with every copy, as CC BY 4.0 asks
 const credit = p => `Prompt #${p.id} from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com`;
-// Disclosure that fits the links: Amazon, referral, or both
-const disclose = needs => {
-  const amz = needs.some(n => /amazon\./.test(n.url)), ref = needs.some(n => !/amazon\./.test(n.url));
-  return amz && ref ? "Some of these are affiliate links, and as an Amazon Associate I earn from qualifying purchases." : ref ? (needs.length > 1 ? "These are referral links." : "That's a referral link.") : "As an Amazon Associate I earn from qualifying purchases.";
-};
 const slug = s => s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 // One Markdown file per category
@@ -34,13 +29,8 @@ data.categories.forEach((cat, ci) => {
     `|---|---|---|`,
     `| ~~${usd(p.freelancer)}~~ ${p.freelancer_note} | ~~${usd(p.agency)}~~ ${p.agency_note} | **${PLANS[p.claude_code_plan]}** |`,
     "",
-    // gear to buy: Amazon links with Jef's Associates tag, disclosure right under them
-    ...(p.needs && p.needs.length ? [
-      `**What you'll need:** ${p.needs.map(n => `[${n.label}](${n.url})`).join(" · ")}`,
-      "",
-      `<sub>${disclose(p.needs)} It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>`,
-      "",
-    ] : []),
+    // gear to buy; the one affiliate note sits at the bottom of the file
+    ...(p.needs && p.needs.length ? [`**What you'll need:** ${p.needs.map(n => `[${n.label}](${n.url})`).join(" · ")}`, ""] : []),
     "```text",
     p.prompt,
     "",
@@ -48,7 +38,8 @@ data.categories.forEach((cat, ci) => {
     "```",
     ""
   ].join("\n")).join("\n");
-  fs.writeFileSync(path.join(outDir, file), `# ${cat.name}\n\n${items.length} prompts. Copy one, fill in the [brackets], paste it into Claude Code.\n\n${body}`);
+  const note = items.some(p => p.needs && p.needs.length) ? `---\n\n<sub>${data.small_print.affiliate}</sub>\n\n` : "";
+  fs.writeFileSync(path.join(outDir, file), `[← All 1001 prompts](../README.md)\n\n# ${cat.name}\n\n${items.length} prompts. Copy one, fill in the [brackets], paste it into Claude Code.\n\n${body}\n${note}[← All 1001 prompts](../README.md)\n`);
 });
 
 // README index and totals

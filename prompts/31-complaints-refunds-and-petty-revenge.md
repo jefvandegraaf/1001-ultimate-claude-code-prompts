@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Complaints, Refunds & Petty Revenge
 
 20 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -223,8 +225,6 @@ Prompt #0941 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$150~~ Logger setup | ~~$3,500~~ Acoustic survey | **Pro, $20/mo** |
 
 **What you'll need:** [Raspberry Pi 5 (4GB)](https://www.amazon.com/s?k=raspberry+pi+5+4gb&tag=jefvandegra00-20) · [64GB microSD card](https://www.amazon.com/s?k=64gb+microsd+card&tag=jefvandegra00-20) · [Raspberry Pi 5 27W USB-C power supply](https://www.amazon.com/s?k=raspberry+pi+5+27w+power+supply&tag=jefvandegra00-20) · [USB microphone](https://www.amazon.com/s?k=usb+microphone&tag=jefvandegra00-20) · [Sound level meter](https://www.amazon.com/s?k=sound+level+meter&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are an evicted 3am headboard neighbour who got thrown out of three apartments for banging the wall at 3am, so you know exactly which noise logs finally got your ass evicted. Now you build that log for someone else.
@@ -1047,3 +1047,9 @@ OUTPUT
 
 Prompt #0957 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

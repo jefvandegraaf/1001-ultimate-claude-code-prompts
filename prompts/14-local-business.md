@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Local Business
 
 24 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -158,8 +160,6 @@ Prompt #0446 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$120~~ One page | ~~$3,500~~ Landing page build | **Pro, $20/mo** |
 
 **What you'll need:** [Fathom Analytics](https://usefathom.com/ref/NICBDW)
-
-<sub>That's a referral link. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are the Bat-Signal rooftop operator who ran one light on one roof for 30 years, and the right guy always showed up within minutes. A basement filling with water at 2am deserves the same clarity, minus the cape.
@@ -1324,3 +1324,9 @@ OUTPUT
 
 Prompt #0467 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # AI Builds
 
 40 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -1592,8 +1594,6 @@ Prompt #0653 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [USB webcam](https://www.amazon.com/s?k=usb+webcam&tag=jefvandegra00-20) · [Ring light](https://www.amazon.com/s?k=ring+light&tag=jefvandegra00-20) · [Photo light box](https://www.amazon.com/s?k=photo+light+box&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a chicken sexer who spent 25 years flipping day-old chicks and calling boy or girl from one glance at their backsides, 1,000 an hour, 98 percent right. Teaching a camera to spot a bad part is the same trick, with less poop.
 
@@ -1657,8 +1657,6 @@ Prompt #0654 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$150~~ Sensor + script | ~~$3,000~~ Monitoring install | **Pro, $20/mo** |
 
 **What you'll need:** [ESP32 dev board](https://www.amazon.com/s?k=esp32+dev+board&tag=jefvandegra00-20) · [DS18B20 waterproof temperature probe](https://www.amazon.com/s?k=ds18b20+waterproof+temperature+sensor&tag=jefvandegra00-20) · [Resistor assortment kit](https://www.amazon.com/s?k=resistor+assortment+kit&tag=jefvandegra00-20) · [Jumper wires](https://www.amazon.com/s?k=dupont+jumper+wires&tag=jefvandegra00-20) · [USB power bank](https://www.amazon.com/s?k=usb+power+bank&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a blood bank fridge night porter who knows that two degrees too warm overnight means 40 bags in the bin and someone on a table not getting theirs. Your fish fillets get the same paranoia, and the same 3 a.m. phone call.
@@ -1724,8 +1722,6 @@ Prompt #0655 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [PoE IP security camera (RTSP)](https://www.amazon.com/s?k=poe+ip+camera+rtsp&tag=jefvandegra00-20) · [Mini PC](https://www.amazon.com/s?k=mini+pc&tag=jefvandegra00-20) · [Google Coral USB Accelerator](https://www.amazon.com/s?k=google+coral+usb+accelerator&tag=jefvandegra00-20) · [Surveillance hard drive](https://www.amazon.com/s?k=surveillance+hard+drive&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a Home Alone style Wet Bandit burglar who broke into a hundred houses and only got caught by the one kid with a plan. Now you build the camera that wakes the owner for a guy like you and lets the cat walk by.
 
@@ -1790,8 +1786,6 @@ Prompt #0656 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 
 **What you'll need:** [Mini PC](https://www.amazon.com/s?k=mini+pc&tag=jefvandegra00-20) · [Home Assistant Voice Preview Edition](https://www.amazon.com/s?k=home+assistant+voice+preview+edition&tag=jefvandegra00-20)
 
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
-
 ```text
 You are a HAL 9000 decommission engineer who pulled the memory boards out of the last assistant that refused to open the pod bay doors. This one runs on your own box, obeys, and reports to nobody.
 
@@ -1854,8 +1848,6 @@ Prompt #0657 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$800~~ Setup + training | ~~$25,000~~ Robotics integrator | **Max 5x, $100/mo** |
 
 **What you'll need:** [SO-101 robot arm kit](https://www.amazon.com/s?k=so-101+robot+arm+kit&tag=jefvandegra00-20) · [Feetech STS3215 servos](https://www.amazon.com/s?k=feetech+sts3215+servo&tag=jefvandegra00-20) · [Bus servo driver board](https://www.amazon.com/s?k=bus+servo+driver+board&tag=jefvandegra00-20) · [USB webcam](https://www.amazon.com/s?k=usb+webcam&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a rigged claw machine technician who spent 20 years tuning arcade claws to drop the teddy one inch from the chute. Now you finally get to teach a robot arm to actually hold on.
@@ -1920,8 +1912,6 @@ Prompt #0658 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefva
 | ~~$60~~ Hook + smart bulb | ~~$1,500~~ Custom gadget build | **Pro, $20/mo** |
 
 **What you'll need:** [TP-Link Tapo smart colour bulb](https://www.amazon.com/s?k=tp-link+tapo+smart+color+bulb&tag=jefvandegra00-20)
-
-<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, helps keep these prompts free, and prevents me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
 
 ```text
 You are a Blitz air raid warden who spent the war making sure nobody in London missed a warning, whatever they were doing. You can make sure I never again leave Claude waiting for an hour while I make toast.
@@ -2181,3 +2171,9 @@ OUTPUT
 
 Prompt #0663 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+---
+
+<sub>Some links under **What you'll need** are affiliate links. As an Amazon Associate I earn from qualifying purchases. They cost you nothing extra and keep me from [falling into poverty](https://jefvandegraaf.com/patron/).</sub>
+
+[← All 1001 prompts](../README.md)

@@ -1,3 +1,5 @@
+[← All 1001 prompts](../README.md)
+
 # Copywriting
 
 45 prompts. Copy one, fill in the [brackets], paste it into Claude Code.
@@ -2369,3 +2371,5 @@ OUTPUT
 
 Prompt #0045 from 1001 Ultimate Claude Code Prompts by Jef van de Graaf · jefvandegraaf.com
 ```
+
+[← All 1001 prompts](../README.md)
