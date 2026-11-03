@@ -5,35 +5,45 @@ Every prompt sits next to what a cheap freelancer and an expensive agency would 
 Free. No $397 prompt vault, no countdown timer, no reviews from people who don't exist.
 
 <!-- index:start -->
-**63 of 1001 prompts written so far.**
+**All 1001 prompts.**
 
-All of them, done by a cheap freelancer: ~~$19,990~~. By an expensive agency: ~~$494,500~~. By Claude Code: **$200 a month**.
+All of them, done by a cheap freelancer: ~~$140,080~~. By an expensive agency: ~~$3,711,150~~. By Claude Code: **$200 a month**.
 
 | Category | Prompts | Numbers |
 |---|---|---|
-| [Copywriting](prompts/01-copywriting.md) | 4 | #0001 to #0004 |
-| [Websites & Landing Pages](prompts/02-websites-and-landing-pages.md) | 5 | #0005 to #0009 |
-| [SEO](prompts/03-seo.md) | 4 | #0010 to #0013 |
-| [Email Marketing](prompts/04-email-marketing.md) | 4 | #0014 to #0017 |
-| [Social Media](prompts/05-social-media.md) | 4 | #0018 to #0021 |
-| [Video, Shorts & Reels](prompts/06-video-shorts-and-reels.md) | 4 | #0022 to #0025 |
-| [Faceless Channels & Clipping](prompts/07-faceless-channels-and-clipping.md) | 1 | #0026 to #0026 |
-| [Design & Branding](prompts/08-design-and-branding.md) | 4 | #0027 to #0030 |
-| [Sales](prompts/09-sales.md) | 4 | #0031 to #0034 |
-| [Strategy & Consulting](prompts/10-strategy-and-consulting.md) | 1 | #0035 to #0035 |
-| [Data & Spreadsheets](prompts/11-data-and-spreadsheets.md) | 4 | #0036 to #0039 |
-| [Admin & Inbox](prompts/12-admin-and-inbox.md) | 4 | #0040 to #0043 |
-| [Docs, Policies & Legal](prompts/13-docs-policies-and-legal.md) | 4 | #0044 to #0047 |
-| [Dev & Automation](prompts/14-dev-and-automation.md) | 4 | #0048 to #0051 |
-| [Privacy & Security](prompts/15-privacy-and-security.md) | 1 | #0052 to #0052 |
-| [AI Builds](prompts/16-ai-builds.md) | 3 | #0053 to #0055 |
-| [Second Brain & Productivity](prompts/17-second-brain-and-productivity.md) | 1 | #0056 to #0056 |
-| [Relationships, Dating & Breakups](prompts/18-relationships-dating-and-breakups.md) | 1 | #0057 to #0057 |
-| [Parenting](prompts/19-parenting.md) | 2 | #0058 to #0059 |
-| [Fitness & Food](prompts/20-fitness-and-food.md) | 1 | #0060 to #0060 |
-| [Therapy & Self-Care](prompts/21-therapy-and-self-care.md) | 1 | #0061 to #0061 |
-| [Enlightenment](prompts/22-enlightenment.md) | 1 | #0062 to #0062 |
-| [Complaints, Refunds & Petty Revenge](prompts/23-complaints-refunds-and-petty-revenge.md) | 1 | #0063 to #0063 |
+| [Copywriting](prompts/01-copywriting.md) | 45 | #0001 to #0045 |
+| [Websites & Landing Pages](prompts/02-websites-and-landing-pages.md) | 45 | #0046 to #0090 |
+| [SEO](prompts/03-seo.md) | 40 | #0091 to #0130 |
+| [Ads](prompts/04-ads.md) | 35 | #0131 to #0165 |
+| [Email Marketing](prompts/05-email-marketing.md) | 28 | #0166 to #0193 |
+| [Social Media](prompts/06-social-media.md) | 48 | #0194 to #0241 |
+| [Video, Shorts & Reels](prompts/07-video-shorts-and-reels.md) | 40 | #0242 to #0281 |
+| [Faceless Channels & Clipping](prompts/08-faceless-channels-and-clipping.md) | 22 | #0282 to #0303 |
+| [Design & Branding](prompts/09-design-and-branding.md) | 32 | #0304 to #0335 |
+| [Prospecting](prompts/10-prospecting.md) | 28 | #0336 to #0363 |
+| [Sales](prompts/11-sales.md) | 28 | #0364 to #0391 |
+| [Strategy & Consulting](prompts/12-strategy-and-consulting.md) | 22 | #0392 to #0413 |
+| [E-commerce](prompts/13-e-commerce.md) | 30 | #0414 to #0443 |
+| [Local Business](prompts/14-local-business.md) | 24 | #0444 to #0467 |
+| [Data & Spreadsheets](prompts/15-data-and-spreadsheets.md) | 35 | #0468 to #0502 |
+| [Admin & Inbox](prompts/16-admin-and-inbox.md) | 28 | #0503 to #0530 |
+| [Docs, Policies & Legal](prompts/17-docs-policies-and-legal.md) | 28 | #0531 to #0558 |
+| [Dev & Automation](prompts/18-dev-and-automation.md) | 45 | #0559 to #0603 |
+| [Privacy & Security](prompts/19-privacy-and-security.md) | 20 | #0604 to #0623 |
+| [AI Builds](prompts/20-ai-builds.md) | 40 | #0624 to #0663 |
+| [Second Brain & Productivity](prompts/21-second-brain-and-productivity.md) | 26 | #0664 to #0689 |
+| [Money, Side Hustles & Taxes](prompts/22-money-side-hustles-and-taxes.md) | 35 | #0690 to #0724 |
+| [Career & Job Hunting](prompts/23-career-and-job-hunting.md) | 30 | #0725 to #0754 |
+| [Relationships, Dating & Breakups](prompts/24-relationships-dating-and-breakups.md) | 38 | #0755 to #0792 |
+| [Parenting](prompts/25-parenting.md) | 30 | #0793 to #0822 |
+| [Fitness & Food](prompts/26-fitness-and-food.md) | 28 | #0823 to #0850 |
+| [Therapy & Self-Care](prompts/27-therapy-and-self-care.md) | 24 | #0851 to #0874 |
+| [Enlightenment](prompts/28-enlightenment.md) | 14 | #0875 to #0888 |
+| [Home, Travel & Pets](prompts/29-home-travel-and-pets.md) | 25 | #0889 to #0913 |
+| [Learning & Students](prompts/30-learning-and-students.md) | 24 | #0914 to #0937 |
+| [Complaints, Refunds & Petty Revenge](prompts/31-complaints-refunds-and-petty-revenge.md) | 20 | #0938 to #0957 |
+| [Death, Wills & Legacy](prompts/32-death-wills-and-legacy.md) | 14 | #0958 to #0971 |
+| [Off the Wall](prompts/33-off-the-wall.md) | 30 | #0972 to #1001 |
 <!-- index:end -->
 
 ## How to use a prompt
@@ -54,7 +64,7 @@ Everything lives in [`data/prompts.json`](data/prompts.json): number, category, 
 
 ## License
 
-[CC BY 4.0](LICENSE). Use the prompts for anything, including paid work. If you republish them, credit **Jef van de Graaf** with a link to [jefvandegraaf.com](https://jefvandegraaf.com/), and keep the credit line at the end of each prompt. <!-- hound:start -->And yes, Jef runs [prompt #0063, The Copyright Bloodhound](prompts/23-complaints-refunds-and-petty-revenge.md#0063-the-copyright-bloodhound-deep-build), to sniff out anyone who doesn't.<!-- hound:end -->
+[CC BY 4.0](LICENSE). Use the prompts for anything, including paid work. If you republish them, credit **Jef van de Graaf** with a link to [jefvandegraaf.com](https://jefvandegraaf.com/), and keep the credit line at the end of each prompt. <!-- hound:start -->And yes, Jef runs [prompt #0938, The Copyright Bloodhound](prompts/31-complaints-refunds-and-petty-revenge.md#0938-the-copyright-bloodhound-deep-build), to sniff out anyone who doesn't.<!-- hound:end -->
 
 ## The small print
 
